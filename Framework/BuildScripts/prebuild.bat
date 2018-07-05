@@ -35,6 +35,6 @@ rem Set the Falcor Backend to D3D12 by default.
 set falcor_backend=FALCOR_D3D12
 
 rem Call Update Dependencies - Runs packman.
-call %1Source\update_dependencies.bat
-if errorlevel 1 exit /b 1
+rem call %1Source\update_dependencies.bat
+rem if errorlevel 1 exit /b 1
 
