@@ -1,7 +1,7 @@
 
 /************************************************************************************************************************************\
 |*                                                                                                                                    *|
-|*     Copyright © 2017 NVIDIA Corporation.  All rights reserved.                                                                     *|
+|*     Copyright ?2017 NVIDIA Corporation.  All rights reserved.                                                                     *|
 |*                                                                                                                                    *|
 |*  NOTICE TO USER:                                                                                                                   *|
 |*                                                                                                                                    *|
