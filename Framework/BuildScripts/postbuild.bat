@@ -31,4 +31,4 @@ rem echo "Output Directory:"
 rem echo %7
 
 rem Call the Build Scripts to move the data.
-call %1BuildScripts\movedata.bat %1 %2 %3 %4 %5 %6 %7
+rem call %1BuildScripts\movedata.bat %1 %2 %3 %4 %5 %6 %7
